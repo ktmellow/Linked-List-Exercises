@@ -1,0 +1,24 @@
+{
+  "name": "LinkedListsJS",
+  "version": "1.0.0",
+  "description": "### Part 1 - Singly Linked Lists",
+  "main": "doubly_linked_list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/LinkedListsJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/LinkedListsJS/issues"
+  },
+  "homepage": "https://github.com/gSchool/LinkedListsJS#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
